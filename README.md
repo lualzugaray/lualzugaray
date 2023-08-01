@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I’m Lucía Alzugaray</h1>
-- 🌱 I’m currently learning **new technologies every day.**
+- 🌱 I’m currently learning new technologies every day.
 
 - 👨‍💻 All of my projects are available at [https://github.com/lualzugaray](https://github.com/lualzugaray)
 
